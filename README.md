@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @danieloikarinen
 - 👀 I’m interested in Data Science and Computational Biophysics
-- 🌱 I’m currently learning Data Science
+- 🌱 MSc in Data Science
 - 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me: daniel.oikarinen@helsinki.fi
+- 📫 How to reach me: mirodaniel@proton.me
 
 <!---
 danieloikarinen/danieloikarinen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
